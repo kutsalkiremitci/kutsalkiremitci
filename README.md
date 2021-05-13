@@ -1,0 +1,1 @@
+- 👋 Merhaba, Ben Kutsal, Web Developerım.
