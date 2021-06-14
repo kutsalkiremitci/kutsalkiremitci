@@ -1,1 +1,1 @@
-- 👋 Merhaba, Ben Kutsal, Web Developerım.
+- 👋 Hello, Dear devs
