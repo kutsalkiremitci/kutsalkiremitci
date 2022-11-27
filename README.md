@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/kutsalkiremitci/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 </p>
-
-![Visitor Count](https://profile-counter.glitch.me/kutsalkiremitci/count.svg)
+<div align="center">
+	![Visitor Count](https://profile-counter.glitch.me/kutsalkiremitci/count.svg)
+</div>
 
