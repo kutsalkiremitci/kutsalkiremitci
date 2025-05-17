@@ -16,7 +16,6 @@
 - 🌍 Based in Türkiye, open to international opportunities
 - 🔭 Passionate about building responsive, scalable, and maintainable web apps
 - 🧱 Advocate of Clean Architecture and SOLID principles
-- 🎮 Lifelong gamer — inspired by design and systems in games
 
 ---
 
