@@ -23,7 +23,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,nodejs,react,vue,nextjs,tailwind,bootstrap,mysql,prisma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,nodejs,react,vue,nextjs,tailwind,bootstrap,mysql,prisma,git,smarty" />
 </p>
 
 ---
@@ -32,8 +32,12 @@
 
 ```bash
 💻 Languages:        HTML, CSS, JavaScript, PHP, SQL
-⚙️ Frameworks:       ReactJS, VueJS, Next.js, Node.js, Express, Laravel
+⚙️ Frameworks:       ReactJS, VueJS, Next.js, Node.js, Express, Laravel, Smarty
 🎨 UI Libraries:     Tailwind CSS, Bootstrap
 🧰 Tools:            Git, VSCode, Postman, NPM, PM2
 🛢️ Databases:        MySQL, Prisma ORM
 🧪 Testing & DevOps: GitLab CI/CD, Nginx
+```
+<p align="center">
+  Contact: <a href="mailto:kutsalkiremitci@gmail.com">kutsalkiremitci@gmail.com</a>
+</p>
