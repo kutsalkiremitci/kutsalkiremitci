@@ -30,7 +30,7 @@
 ### 🛠️ Tools & Technologies
 
 ```bash
-💻 Languages:        HTML, CSS, JavaScript, PHP, SQL
+💻 Languages:        HTML, CSS, JavaScript, PHP, NODEJS, SQL
 ⚙️ Frameworks:       ReactJS, VueJS, Next.js, Node.js, Express, Laravel, Smarty
 🎨 UI Libraries:     Tailwind CSS, Bootstrap
 🧰 Tools:            Git, VSCode, Postman, NPM, PM2
