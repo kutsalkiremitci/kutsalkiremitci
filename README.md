@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kutsal Kiremitçi 👋</h1>
 
 <p align="center">
-  <em>Web Developer • UI/UX Enthusiast • Full Stack Builder</em>
+  <em>Web Developer • UI/UX Enthusiast • Full Stack Software Developer</em>
 </p>
 
 <p align="center">
