@@ -4,10 +4,6 @@
   <em>Full Stack Software Developer • UI/UX Enthusiast</em>
 </p>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/212876931744399360" alt="Discord Presence">
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
