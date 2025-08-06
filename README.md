@@ -18,7 +18,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,nodejs,react,vue,nextjs,tailwind,bootstrap,mysql,prisma,git,smarty" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,php,nodejs,react,vue,nextjs,tailwind,bootstrap,mysql,prisma,redis,git,docker,figma,postman,vscode" />
 </p>
 
 ---
@@ -26,12 +26,12 @@
 ### 🛠️ Tools & Technologies
 
 ```bash
-💻 Languages:        HTML, CSS, JavaScript, PHP, NODEJS, SQL
-⚙️ Frameworks:       ReactJS, VueJS, Next.js, Node.js, Express, Laravel, Smarty
-🎨 UI Libraries:     Tailwind CSS, Bootstrap
-🧰 Tools:            Git, VSCode, Postman, NPM, PM2
-🛢️ Databases:        MySQL, Prisma ORM
-🧪 Testing & DevOps: GitLab CI/CD, Nginx
+💻 Languages:        HTML, CSS, JavaScript, TypeScript, PHP, SQL
+⚙️ Frameworks:       ReactJS, VueJS, NextJS, NodeJS, ExpressJS, Laravel, JQuery,Smarty
+🎨 UI Libraries:     Tailwind CSS, ShadCN, Radix, Bootstrap
+🧰 Tools:            Git, VSCode, Postman, NPM, PM2, Navicat Premium, Docker, GitHub Desktop, Figma
+🛢️ Databases:        MySQL, MariaDB, Prisma ORM, Redis
+🧪 Testing & DevOps: GitLab CI/CD, GitHub Actions, Docker, Nginx, 
 ```
 <p align="center">
   Contact: <a href="mailto:kutsalkiremitci@gmail.com">kutsalkiremitci@gmail.com</a>
